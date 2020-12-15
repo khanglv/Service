@@ -1,0 +1,6 @@
+{
+    "sendMail": "test_rabbit_sendMail",
+    "OTP_SMS": "SMS_Provider_demo",
+    "SMSProvider": "SMS_Provider_demo",
+    "alert_pushNotify": "alert_pushNotify"
+}

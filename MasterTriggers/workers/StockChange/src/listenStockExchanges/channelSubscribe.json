@@ -1,0 +1,4 @@
+{
+    "ceilingCrossChannel": "isFloorCeiling",
+    "floorCrossChannel": "floorCrossChannel"
+}

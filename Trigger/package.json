@@ -1,0 +1,23 @@
+{
+  "name": "trigger",
+  "version": "1.0.0",
+  "description": "demo the first nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "khanglv",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.6.0",
+    "axios": "^0.20.0",
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongodb": "^3.6.2",
+    "redis": "^3.0.2"
+  }
+}
